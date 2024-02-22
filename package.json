@@ -1,0 +1,21 @@
+{
+  "name": "clienteproyecto",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "naive-ui": "^2.37.3",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "axios": "^1.6.7",
+    "vite": "^5.0.11",
+    "vue-router": "^4.2.5"
+  }
+}
